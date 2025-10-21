@@ -13,6 +13,6 @@ This project contains screenshots and configuration details of applications bloc
 5. Opened the **Applications tab** inside the policy.
 6. Selected the following applications to block:
    - Ultraviewer
-7. Saved and applied the policy to all assigned endpoints.
+7. Saved and applied the policy to assigned device.
 8. Verified that the selected applications were blocked successfully.
-9. Captured screenshots and uploaded them in the relevant folders.
+9. Captured screenshots and uploaded them in the ultraviewer block by sophos folders.
