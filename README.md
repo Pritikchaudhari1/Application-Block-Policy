@@ -8,8 +8,8 @@ This project contains screenshots and configuration details of applications bloc
 
 1. Logged in to **Sophos Central Admin Console**.
 2. Navigated to **Endpoint Protection → Policies → Application Control**.
-3. Created a new policy named **Ultraviewer Block Poli**.
-4. Added target devices or user groups under the policy.
+3. Created a new policy named **Ultraviewer Block Policy**.
+4. Added target devices or trying user groups also under the policy.
 5. Opened the **Applications tab** inside the policy.
 6. Selected the following applications to block:
    - Ultraviewer
